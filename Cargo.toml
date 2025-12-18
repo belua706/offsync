@@ -2,7 +2,7 @@
 name = "offsync"
 version = "0.0.1"
 edition = "2021"
-authors = ["Ivan Fraixedes <ivan@fraixed.es>"]
+authors = ["Ivan Fraixedes <ivan@fraixed.es>, Mihajlo Basta <mbasta@pm.me>"]
 description = """
 A command-line tool to synchronize a local directory with remote ones without having to be
 connected at the same time to the internet.
@@ -10,6 +10,5 @@ connected at the same time to the internet.
 license = "MIT"
 repository = "https://github.com/rust-girona/offsync"
 keywords = ["file-sync", "offline"]
-
 
 [dependencies]
